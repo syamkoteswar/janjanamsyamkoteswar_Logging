@@ -1,0 +1,4 @@
+2020-02-24 17:02:899 INFO  CostCalculationimpl:15 - CostCalculationimpl constructor is called
+2020-02-24 17:02:901 INFO  CostCalculationimpl:17 - Exited CostCalculationimpl constructor
+2020-02-24 17:02:901 INFO  CostCalculationimpl:22 - Entered calculateCost() 
+2020-02-24 17:02:911 INFO  CostCalculationimpl:30 - Exit from calculateCost() 
